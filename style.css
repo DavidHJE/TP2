@@ -1,7 +1,7 @@
 #container
 {
 	margin: 0 30px;
-	background: #fff;
+	background-color: antiquewhite;
 }
 
 #header
@@ -14,6 +14,7 @@
     border-radius: 18px;
     box-shadow: 0px 0px 6px #000000;
     text-align: center;
+    background-color: bisque;
 }
 
 #header h1 { margin: 0; }
@@ -64,6 +65,7 @@
 	-webkit-background-clip: padding-box;
 	background-clip: padding-box;
 	opacity: 0.83;
+    background-color:aliceblue;
 }
 
 #edito h2
@@ -89,12 +91,13 @@
 	-webkit-background-clip: padding-box;
 	background-clip: padding-box;
 	opacity: 0.83;
+    background-color:azure;
 }
 
 #footer
 {
 	clear: both;
-	background: #ccc;
+	background-color: antiquewhite;
 	text-align: right;
 	padding: 20px;
 	height: 1%;
